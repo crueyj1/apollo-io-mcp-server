@@ -26,7 +26,7 @@ To use this MCP server, you need to:
 
 1. Set the `APOLLO_IO_API_KEY` environment variable with your Apollo.io API key. Or create '.env' file in the project root with `APOLLO_IO_API_KEY`.
 2. Get dependencies: `uv sync`
-3. Run the `uv run mcp run server.py`
+3. Run the `uv run mcp run server.py`APOLLO_IO_API_KEY=Wa2o3zEWncamBNaqi56yRw
 
 ## Data Models
 

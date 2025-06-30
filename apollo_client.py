@@ -151,3 +151,5 @@ async def main():
 if __name__ == "__main__":
     import asyncio
     asyncio.run(main())
+
+# Ensure the APOLLO_IO_API_KEY is set in your environment variables before running the script.
